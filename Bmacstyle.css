@@ -1,0 +1,19 @@
+
+<html>
+<head>
+<style>
+
+p.border {border-style: double;}
+#border  {border-style: double;}
+</style>
+</head>
+<body>
+background-color: lightblue;
+<p =class="p.border"> Earthworm Jim </p>
+<h2 id="border"> BIG BOOM </h2>
+
+
+
+
+</body>
+</html>
